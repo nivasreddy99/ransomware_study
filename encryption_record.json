@@ -1,0 +1,31 @@
+{
+    "encryption_time": "2024-11-07 15:47:07.666947",
+    "target_directory": "data\\critical",
+    "encrypted_files": [
+        {
+            "original_path": "data\\critical\\file1.txt",
+            "encrypted_path": "data\\critical\\file1.txt.encrypted",
+            "timestamp": "2024-11-07 15:47:07.634449"
+        },
+        {
+            "original_path": "data\\critical\\file2.txt",
+            "encrypted_path": "data\\critical\\file2.txt.encrypted",
+            "timestamp": "2024-11-07 15:47:07.644659"
+        },
+        {
+            "original_path": "data\\critical\\documents\\doc1.txt",
+            "encrypted_path": "data\\critical\\documents\\doc1.txt.encrypted",
+            "timestamp": "2024-11-07 15:47:07.652647"
+        },
+        {
+            "original_path": "data\\critical\\documents\\doc2.txt",
+            "encrypted_path": "data\\critical\\documents\\doc2.txt.encrypted",
+            "timestamp": "2024-11-07 15:47:07.659541"
+        },
+        {
+            "original_path": "data\\critical\\subdir\\file3.txt",
+            "encrypted_path": "data\\critical\\subdir\\file3.txt.encrypted",
+            "timestamp": "2024-11-07 15:47:07.666743"
+        }
+    ]
+}
